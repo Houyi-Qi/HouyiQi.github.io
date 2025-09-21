@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Houyi Qi (齐厚艺)"
-description              : "Academic homepage — Edge Computing, UAV-assisted Networks, ISAC, Privacy & Matching Markets"
+description              : "Academic homepage — Cloud/Edge Computing, Matching Game, Mobile Crowdsensing, DRL, ISAC"
 repository               : "Houyi-Qi/Houyi-Qi.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
