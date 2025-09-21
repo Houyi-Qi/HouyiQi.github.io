@@ -6,6 +6,9 @@ main:
   - title: "Education"
     url: "/zh-cn/#-Edu"
 
+ - title: "New"
+    url: "/zh-cn/#-new"
+
   - title: "Publications"
     url: "/zh-cn/#-pub"
 
@@ -15,6 +18,6 @@ main:
   - title: "Skills"
     url: "/zh-cn/#-Skills"
 
-  - title: "New"
-    url: "/zh-cn/#-new"
+
+
 
