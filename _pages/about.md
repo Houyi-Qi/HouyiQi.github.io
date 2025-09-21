@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+## About me
 
 I am a Ph.D. student at **Tongji University**, Shanghai Research Institute for Intelligent Autonomous Systems (National Key Lab, China).  
 My research lies at the intersection of **matching theory**, **cloud/edge/service computing**, **UAV-assisted & mobile crowdsensing (MCS) networks**, and **ISAC**, with a focus on **market-driven, risk-aware resource scheduling**.
@@ -34,7 +35,7 @@ My research lies at the intersection of **matching theory**, **cloud/edge/servic
 - Privacy- & risk-aware contract design and resource trading
 
 ---
-
+<span class='anchor' id='-edu'></span>
 ## 🎓 Education
 - **Ph.D. in Intelligent Science and Technology**, Tongji University, Shanghai, China — *2025.9–present*  
   (Shanghai Research Institute for Intelligent Autonomous Systems)  
@@ -44,8 +45,8 @@ My research lies at the intersection of **matching theory**, **cloud/edge/servic
 - **B.Eng. in Electronic Information Engineering**, Zhengzhou University, Zhengzhou, China — *2017.9–2021.6*
 
 ---
-
-## 📝 Selected Publications
+<span class='anchor' id='-pub'></span>
+## 📝 Publications
 - **Houyi Qi**, Minghui Liwang, Seyyedali Hosseinalipour, Liqun Fu, Sai Zou, Wei Ni,  
   **Future Resource Bank for ISAC: Achieving Fast and Stable Win-Win Matching for Both Individuals and Coalitions**, *IEEE JSAC*, 2025. DOI: 10.1109/JSAC.2025.3608114.
 
@@ -68,17 +69,10 @@ My research lies at the intersection of **matching theory**, **cloud/edge/servic
 - **Dynamic Path Planning for Multi-UAV Data Collection** (CN202411015056.4), 2024.12.  
 - **Edge Computing Resource Scheduling Method, Device and System** (CN120407151A), 2025.08.
 
----
 
-## 🧩 Projects (selected)
-- NSFC (General Program): *Low-latency, energy-efficient multi-domain resource management for vehicular edge networks*.  
-- Xiamen Municipal Youth Fund: *Resource optimization for efficient federated learning in vehicular networks* .  
-- CCSA Spark iF Open Topic: *Efficient scheduling of ubiquitous heterogeneous compute in cloud-edge collaboration*.  
-- Shanghai Pujiang Talent Program: *Intelligent collaboration and optimization of multi-source heterogeneous compute* .  
-- NSFC Joint Fund Key Project: *Near-shore multi-domain resource fusion and air-sea integrated intelligent networking* .
 
 ---
-
+<span class='anchor' id='-Awards'></span>
 ## 🏅 Honors & Awards
 - National Scholarship for Graduate Students, 2024  
 - Outstanding Graduate of Xiamen University, 2025  
@@ -86,7 +80,7 @@ My research lies at the intersection of **matching theory**, **cloud/edge/servic
 - Multiple university scholarships at Zhengzhou University (2019–2021)
 
 ---
-
+<span class='anchor' id='-skills'></span>
 ## 🧑‍💻 Service & Skills
 - **Reviewer**: *IEEE Communications Letters*  
 - **Programming/Tools**: Python, MATLAB  
@@ -95,4 +89,5 @@ My research lies at the intersection of **matching theory**, **cloud/edge/servic
 ---
 
 *Email:* **houyiqi@tongji.edu.cn** · *Scholar:* <https://scholar.google.com/citations?user=7QGamoIAAAAJ>
+
 
