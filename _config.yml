@@ -21,11 +21,11 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "齐厚艺"
+  name             : "Houyi Qi (齐厚艺)"
   avatar           : "images/me.jpg"
-  bio              : "同济大学"
-  location         : "上海 杨浦"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "Tongji University"
+  location         : "Shanghai, China"
+  employer         : "Shanghai Research Institute for Intelligent Autonomous Systems"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=7QGamoIAAAAJ&hl=zh-CN"
   email            : "houyiqi@tongji.edu.cn"
@@ -161,6 +161,7 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
 
 
 
