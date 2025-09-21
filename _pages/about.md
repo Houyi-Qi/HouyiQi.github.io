@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Houyi Qi"
-excerpt: "Academic Homepage — Edge/Cloud, UAV Networks, ISAC, Matching & Market-based Scheduling"
+excerpt: "Academic Homepage — Cloud/Edge Computing, Matching Game, Mobile Crowdsensing, DRL, ISAC"
 author_profile: true
 redirect_from:
   - /about/
@@ -95,3 +95,4 @@ My research lies at the intersection of **matching theory**, **cloud/edge/servic
 ---
 
 *Email:* **houyiqi@tongji.edu.cn** · *Scholar:* <https://scholar.google.com/citations?user=7QGamoIAAAAJ>
+
